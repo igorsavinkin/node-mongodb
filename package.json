@@ -1,0 +1,26 @@
+{
+  "name": "employees",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/igorsavinkin/node-mongodb.git"
+  },
+  "keywords": [
+    "node",
+    "mongodb"
+  ],
+  "author": "Igor Savinkin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igorsavinkin/node-mongodb/issues"
+  },
+  "homepage": "https://github.com/igorsavinkin/node-mongodb#readme",
+  "description": "",
+  "dependencies": {
+    "mongoose": "^8.0.3"
+  }
+}
